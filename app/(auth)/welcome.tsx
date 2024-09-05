@@ -1,3 +1,4 @@
+// until 1 hr 6 min
 import CustomButton from "@/components/CustomButton";
 import { onboarding } from "@/constants";
 import { router } from "expo-router";
