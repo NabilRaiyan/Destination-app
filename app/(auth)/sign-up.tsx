@@ -59,7 +59,7 @@ const SignUp = () => {
         {/* OAuth */}
         <Link
           href="/sign-in"
-          className="text-lg text-center text-general-200 mb-7"
+          className="text-[20px] text-center text-general-200 mb-4"
         >
           <Text>Already have an account? </Text>
           <Text className="text-primary-500">Log In</Text>
