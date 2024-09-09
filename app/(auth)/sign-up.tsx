@@ -5,6 +5,7 @@ import { useState } from "react";
 import CustomButton from "@/components/CustomButton";
 import { Link } from "expo-router";
 
+// sign up function
 const SignUp = () => {
   const [form, setForm] = useState({
     name: "",
