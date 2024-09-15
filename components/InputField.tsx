@@ -47,4 +47,5 @@ const InputField = ({
   </KeyboardAvoidingView>
 );
 
+// exporting input fields
 export default InputField;
