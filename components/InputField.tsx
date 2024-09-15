@@ -10,6 +10,7 @@ import {
   Keyboard,
 } from "react-native";
 
+// Creating input fields
 const InputField = ({
   label,
   labelStyle,
